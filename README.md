@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Krish 👋
 
-<!--
-**krish-tech-builds/krish-tech-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Grade 11 student from India interested in software engineering, systems programming, and building technology that solves real-world problems.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Texora Textile Solutions** — A responsive textile catalogue website with product filtering, fabric comparison, and an enquiry interface.
+- **Agni OS** — Exploring operating-system fundamentals, boot processes, and low-level systems engineering.
+- **Mobile App Development** — Learning cross-platform development and backend integration.
+
+## Technologies
+
+- **Languages:** JavaScript, C (learning), and more as I build
+- **Web:** React, Vite, HTML, CSS
+- **Tools:** Git, GitHub, VSCodium
+
+## My Approach
+
+I enjoy understanding how things work, building practical projects, learning from mistakes, and improving through iteration.
+
+## Connect
+
+- GitHub: [@krish-tech-builds](https://github.com/krish-tech-builds)
